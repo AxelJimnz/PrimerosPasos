@@ -1,6 +1,4 @@
-import java.net.http.HttpResponse.ResponseInfo;
 
-//import java.math.*;
 public class Calculos_Math {
     public static void main(String[] args) {
         
