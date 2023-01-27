@@ -14,6 +14,6 @@ public class ArraysBidimensional {
                 System.out.print(z+ " ");
             }
         
-
+        }
     }
 }
